@@ -16,7 +16,7 @@ This project focus on Analysis of my tiktok page @techway_consult [link here](ht
 * Using Power Query concept For data cleaning such as;
    * Applied DAX for creating a custom columns
    * Applied unpivot functions
-   * Removal of duplicated and NULL rows and columns
+   * Removal of duplicated and NULL value rows and columns
 * Creating of dashboard.
  
  * Bellow is the pictures of step taken to clean the data downloaoded from tiktok using Power Query
