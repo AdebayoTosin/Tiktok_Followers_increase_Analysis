@@ -20,8 +20,8 @@ This project focus on Analysis of my tiktok page @techway_consult [link here](ht
    * Removal of duplicated and NULL rows and columns
 * Creating of dashboard.
  
- Bellow isthe pictures of step take to clean the data downloaoded using Power Query
-
+ Bellow is the pictures of step taken to clean the data downloaoded from tiktok using Power Query
+ !image(
 
 ### INSIGHTS
 
