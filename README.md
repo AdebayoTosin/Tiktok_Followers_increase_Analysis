@@ -24,7 +24,7 @@ This project focus on Analysis of my tiktok page @techway_consult [link here](ht
  ![image](https://github.com/AdebayoTosin/Tiktok_Followers_increase_Analysis/blob/main/pwer_Query.png)
 
 After cleaning of Datasets, it was imported in powerBI where Dashbord was creaated for insight
-![image](
+![image](https://github.com/AdebayoTosin/Tiktok_Followers_increase_Analysis/blob/main/titktok_dashboard.png)
 
 ### INSIGHTS
 
