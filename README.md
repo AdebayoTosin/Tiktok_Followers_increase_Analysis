@@ -28,15 +28,22 @@ After cleaning of Datasets, it was imported in powerBI where Dashbord was creaat
 
 ### INSIGHTS
 
- * There is total number of 139 post on the page
- * Total number of 13027 followers on the page
- * Total number of 14988 Likes on the page which each post generating Average of 108 Likes
- * Posts with original  sounds have the highest number of engagement with a total number of 9000 likes compare to rest with trending sounds
- * Contents posted between the period of 7pm to 10pm has highest nyumber of engagements compare to other content  posted at other time
+- There is a total of **139 posts** on the page.
+- The page has a total of **13,027 followers**.
+- The total number of likes is **14,988**, with each post generating an average of **108 likes**.
+- Posts with **original sounds** have the highest engagement, with a total of **9,000 likes**, compared to posts using trending sounds.
+- Content posted between **7 PM and 10 PM** has the highest number of engagements compared to content posted at other times.
+
+---
+
+Let me know if this looks good to you!
 
 ### RECOMMENDATIONS
 
-According to the result of this analysis, As a business owner intrested in getting more engagement on tiktok,here are recommendations
- * The best time to post is between 7pm and 10pm
- * Focus on using your voice as voiceover for your post as you have a good voice,sound convicing and choice your words and pitch carefully
- * It is good you alwysadd discription to your post on tiktok but note add caption doesnot have any significant effect on increasing engagement base on this analysis
+Based on the analysis, here are some tailored recommendations for a business owner looking to enhance engagement on TikTok:
+
+* Optimal Posting Time;To maximize your reach and engagement, the best time to post is between **7 PM and 10 PM**. This time window is when your audience is most active.
+
+* Use of Voiceovers; Your voice is a powerful asset. Leverage it by using voiceovers in your posts. Your voice sounds convincing and engaging, so be mindful of your word choices and pitch to create a stronger connection with your audience.
+
+* Adding Descriptions and Captions;  While it’s beneficial to always include descriptions in your posts, our analysis shows that captions do not significantly impact engagement. Therefore, prioritize crafting engaging descriptions, but don't worry too much about captions boosting your interaction levels.
