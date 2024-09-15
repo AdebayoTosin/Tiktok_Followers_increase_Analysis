@@ -18,6 +18,7 @@ This project focus on Analysis of my tiktok page @techway_consult [link here](ht
    * Creating custome Column
    * Applied unpivot functions
    * Removal of duplicated and NULL rows and columns
+* Creating of dashboard.
  
  Bellow isthe pictures of step take to clean the data downloaoded using Power Query
 
