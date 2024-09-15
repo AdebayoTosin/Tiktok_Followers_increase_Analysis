@@ -21,7 +21,10 @@ This project focus on Analysis of my tiktok page @techway_consult [link here](ht
 * Creating of dashboard.
  
  Bellow is the pictures of step taken to clean the data downloaoded from tiktok using Power Query
- !image(
+ ![image](https://github.com/AdebayoTosin/Tiktok_Followers_increase_Analysis/blob/main/pwer_Query.png)
+
+After cleaning of Datasets, it was imported in powerBI where Dashbord was creaated for insight
+![image](
 
 ### INSIGHTS
 
